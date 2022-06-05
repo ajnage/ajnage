@@ -12,7 +12,7 @@
 <h1 align="center">Hi there 👋, I'm AJ Nage </h1>
 <h3 align="center">A full-stack software engineer who is passionate about solving problems by integrating hardware and software. </h3>
 <br>
-<p align="left">For my day job, I work as a Project Manager on industrial IoT sensor technologies, where we use data to monitor health of equipment (motors, pumps, heat exchangers, etc) and recommend optimized maintenance frequencies. By night, I am a software engineer, who writes full-stack web applications for my clients. I have a background in Mechanical Engineering (BSc) and Business (MSc). </p>
+<p align="left">For my day job, I work as a Project Manager for IoT sensor projects, where we use data analytics to monitor health of equipment (motors, pumps, heat exchangers, etc) and use machine learning to recommend optimized maintenance frequencies. By night, I am a software engineer, who writes full-stack web applications for my clients. I have a background in Mechanical Engineering (BSc) and Business (MSc). </p>
 
 - 🔭 I’m currently working on a web app that can be used to order food within a restaurant more conveniently (100 hours project)
 - 🌱 I’m currently learning back-end software development
