@@ -19,7 +19,7 @@
 - 💬 Ask me about my take on the future of transportation!
 - 📫 How to reach me: abhijeet@ualberta.ca 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am constantly amazed by technologies that integrate hardware and software well such as robotic vaccum cleaners, drone deliveries, and on-demand carsharing.
+- ⚡ Fun fact: I am constantly amazed by technologies that integrate hardware and software well such as robotic vaccum cleaners, drone deliveries, and on-demand carsharing
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
