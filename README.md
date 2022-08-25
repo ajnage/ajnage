@@ -14,7 +14,7 @@
 <br>
 <p align="left">For my day job, I work as a Project Manager for IoT sensors project, where we use data analytics to monitor health of equipment (motors, pumps, heat exchangers, etc) and use machine learning to recommend optimized maintenance frequencies. By night, I am a software engineer, who writes full-stack web applications for my clients. I have a background in Mechanical Engineering (BSc) and Business (MBA). </p>
 
-- 🔭 I’m currently working on a web app that can be used to order food within a restaurant more conveniently (100 hours project)
+- 🔭 I’m currently working on a web app that can be used by restaurants to create mobile friendly menus (100 hours project)
 - 🌱 I’m currently learning back-end software development
 - 💬 Ask me about my take on the future of transportation!
 - 📫 How to reach me: abhijeet@ualberta.ca 
