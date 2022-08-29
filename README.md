@@ -15,11 +15,11 @@
 <p align="left">Growing up, I was always fascinated by programming. I started my first bit of programming through Lego Mindstorms. I loved that you could create real world impacts through a virtual piece of code. After completing my mechanical engineering, I worked in the Natural Resources and Construction industry and found myself often being frustrated with the lack of automation for relatively easy and menial business processes. So I taught myself programming and am currently leading a team to autonomously monitor health of industrial equipment and send alerts to maintenance teams using IoT sensors and data analytics. I am passionate about automating processes to improve efficiency and meet business needs. </p>
 
 - 🔭 I’m currently working on a web app that can be used by restaurants to create mobile friendly menus (100 hours project)
-- 🌱 I’m currently learning back-end software development
+- 🌱 I’m currently deepening my knowledge of back-end software development
 - 💬 Ask me about my take on the future of transportation!
 - 📫 How to reach me: abhijeet@ualberta.ca 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am constantly amazed by technologies that integrate hardware and software well such as robotic vaccum cleaners, drone deliveries, and on-demand carsharing
+- ⚡ Fun fact: I love playing chess and ranked 1900.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
