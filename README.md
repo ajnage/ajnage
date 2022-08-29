@@ -10,9 +10,9 @@
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm AJ Nage </h1>
-<h3 align="center">A full-stack software engineer who is passionate about solving problems by integrating hardware and software. </h3>
+<h3 align="center">A full-stack software engineer who is passionate about improving efficiency by automating business processes.</h3>
 <br>
-<p align="left">For my day job, I work as a Project Manager for IoT sensors project, where we use data analytics to monitor health of equipment (motors, pumps, heat exchangers, etc) and use machine learning to recommend optimized maintenance frequencies. By night, I am a software engineer, who writes full-stack web applications for my clients. I have a background in Mechanical Engineering (BSc) and Business (MBA). </p>
+<p align="left">Growing up, I was always fascinated by programming. I started my first bit of programming through Lego Mindstorms. I loved that you could create real world impacts through a virtual piece of code. After completing my mechanical engineering, I worked in the Natural Resources and Construction industry and found myself often being frustrated with the lack of automation for relatively easy and menial business processes. So I taught myself programming and am currently leading a team to autonomously monitor health of industrial equipment and send alerts to maintenance teams using IoT sensors and data analytics. I am passionate about automating processes to improve efficiency and meet business needs. </p>
 
 - 🔭 I’m currently working on a web app that can be used by restaurants to create mobile friendly menus (100 hours project)
 - 🌱 I’m currently learning back-end software development
