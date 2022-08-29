@@ -19,7 +19,7 @@
 - 💬 Ask me about my take on the future of transportation!
 - 📫 How to reach me: abhijeet@ualberta.ca 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and currently ranked 1900, 100 points less than a Candidate Master.
+- ⚡ Fun fact: I love playing chess and currently ranked 1900, with 100 points left to become a Candidate Master.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
