@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on a web app that can be used by restaurants to create mobile friendly menus (100 hours project)
 - 🌱 I’m currently deepening my knowledge of back-end software development
 - 💬 Ask me about my take on the future of transportation!
-- 📫 How to reach me: abhijeet@ualberta.ca 
+- 📫 How to reach me: abhijeet.nage@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and currently ranked 1900, with 100 points left to become a Candidate Master.
 
