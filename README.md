@@ -12,7 +12,7 @@
 <h1 align="center">Hi there 👋, I'm AJ Nage </h1>
 <h3 align="center">A full-stack software engineer who is passionate about improving efficiency by automating business processes.</h3>
 <br>
-<p align="left">Growing up, I was always fascinated by programming. I started my first bit of programming through Lego Mindstorms. I loved that you could create real world impacts through a virtual piece of code. After completing my mechanical engineering, I worked in the Natural Resources and Construction industry and found myself often being frustrated with the lack of automation for relatively easy and menial business processes. So I taught myself programming and am currently leading a team to support Tesla's AI goals. We use a combination of IoT sensors and data analytics to do Just-in-Time maintenance (> 50% ROI). I am passionate about automating processes to improve efficiency and meet business needs. </p>
+<p align="left">Growing up, I was always fascinated by programming. I started my first bit of programming through Lego Mindstorms. I loved that you could create real world impacts through a virtual piece of code. After completing my mechanical engineering, I worked in the Natural Resources and Construction industry and found myself often being frustrated with the lack of automation for relatively easy and menial business processes. So I taught myself programming and am currently leading a team to support Tesla's AI goals. I am passionate about automating processes to improve efficiency and meet business needs. </p>
 
 - 🔭 I’m currently working on a web app that can be used by restaurants to create mobile friendly menus (100 hours project)
 - 🌱 I’m currently deepening my knowledge of back-end software development
